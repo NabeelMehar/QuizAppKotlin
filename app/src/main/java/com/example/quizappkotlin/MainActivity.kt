@@ -12,12 +12,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        arrayList.add("What is The Hottest state in India");
-        arrayList.add("What is Capital of India");
+        arrayList.add("What is The Hottest state in India?");
+        arrayList.add("What is Capital of India?");
         arrayList.add("Who is Amitabh Bacchans Son?");
-        arrayList.add("Who is the Best Cricket player");
-        arrayList.add("What is Capital of India");
-        arrayList.add("What is Capital of India");
+        arrayList.add("Who is the Best Cricket player?");
+        arrayList.add("What is Capital of India?");
+        arrayList.add("What is Capital of India?");
+        arrayList.add("What is My Name?")
 
     }
 }
