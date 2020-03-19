@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuizAppKotlin</string>
+    <string name="welcome_to_this_quiz">Welcome To This Quiz!</string>
+    <string name="this_is_a_sample_question">This Is A Sample Question</string>
 </resources>
